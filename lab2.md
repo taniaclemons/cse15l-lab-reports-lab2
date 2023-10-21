@@ -16,7 +16,7 @@ The path to the private key for your SSH key for logging into ieng6: /Users/tani
 ![Image](cse15l public key.png)
 The path to the public key for your SSH key for logging into ieng6: /Users/taniaclemons/.ssh/id_rsa.pub
 
-![Image]
+![Image](cs15l without password.png)
 A terminal interaction where you log into ieng6 with your course-specific account without being asked for a password
 
 
