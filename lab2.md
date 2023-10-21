@@ -13,7 +13,7 @@ The method called was handleRequest. The relevant argument to that method is the
 ![Image](cse15l private key.png)
 The path to the private key for your SSH key for logging into ieng6: /Users/taniaclemons/.ssh/id_rsa
 
-![Image]
+![Image](cse15l public key.png)
 The path to the public key for your SSH key for logging into ieng6: /Users/taniaclemons/.ssh/id_rsa.pub
 
 ![Image]
