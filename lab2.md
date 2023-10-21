@@ -1,5 +1,5 @@
 # Part 1
-![Image]()
+![Image](cse15l stringserver.png)
 StringServer
 
 ![Image](cse15l add-message hello.png)
