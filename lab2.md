@@ -1,5 +1,5 @@
 # Part 1
-![Image]
+![Image]()
 The method called was handleRequest. The relevant argument to that method is the URI url which instructs the string to be added to the web server and includes the message to be added being “Hello”. The value of the relevant field of the class is int num which originally is 1 to list sequentially the number of sentences added. After this specific request, int num changed to 2 to prepare for any next string request.
 
 ![Image]
